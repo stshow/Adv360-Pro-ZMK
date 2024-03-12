@@ -48,11 +48,11 @@
 
         colemak {
             bindings = <
-&kp GRAVE  &kp N1     &kp N2    &kp N3    &kp N4     &kp N5  &tog 3                                                       &trans     &kp N6  &kp N7  &kp N8     &kp N9    &kp N0    &kp MINUS
-&kp TAB    &kp Q      &kp W     &kp F     &kp P      &kp G   &tog 1                                                       &trans     &kp J   &kp L   &kp U      &kp Y     &kp SEMI  &kp BSLH
-&kp ESC    &kp A      &kp R     &kp S     &kp T      &kp D   &tog 0    &kp LEFT_GUI  &kp LCTRL      &kp RALT   &kp RCTRL  &trans     &kp H   &kp N   &kp E      &kp I     &kp O     &kp SQT
-&kp LSHFT  &kp Z      &kp X     &kp C     &kp V      &kp B                           &kp HOME       &kp PG_UP                        &kp K   &kp M   &kp COMMA  &kp DOT   &kp FSLH  &kp RSHFT
-&mo 2      &kp EQUAL  &kp CAPS  &kp LEFT  &kp RIGHT          &kp BSPC  &kp DEL       &kp END        &kp PG_DN  &kp RET    &kp SPACE          &kp UP  &kp DOWN   &kp LBKT  &kp RBKT  &mo 2
+&kp GRAVE      &kp N1     &kp N2      &kp N3    &kp N4     &kp N5  &tog 3                                                       &trans     &kp N6  &kp N7  &kp N8     &kp N9    &kp N0    &kp MINUS
+&kp TAB        &kp Q      &kp W       &kp F     &kp P      &kp G   &tog 1                                                       &trans     &kp J   &kp L   &kp U      &kp Y     &kp SEMI  &kp BSLH
+&kp BACKSPACE  &kp A      &kp R       &kp S     &kp T      &kp D   &tog 0    &kp LEFT_GUI  &kp LCTRL      &kp RALT   &kp RCTRL  &trans     &kp H   &kp N   &kp E      &kp I     &kp O     &kp SQT
+&kp LSHFT      &kp Z      &kp X       &kp C     &kp V      &kp B                           &kp HOME       &kp PG_UP                        &kp K   &kp M   &kp COMMA  &kp DOT   &kp FSLH  &kp RSHFT
+&mo 2          &kp EQUAL  &kp ESCAPE  &kp LEFT  &kp RIGHT          &kp BSPC  &kp DEL       &kp END        &kp PG_DN  &kp RET    &kp SPACE          &kp UP  &kp DOWN   &kp LBKT  &kp RBKT  &mo 2
             >;
         };
 
